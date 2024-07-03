@@ -1,1 +1,3 @@
-# Prioritization-Matrix-
+Prioritization Matrix Project
+
+A prioritization matrix is a valuable tool for evaluating and prioritizing products based on multiple criteria, such as product name, cost, and benefit. To create this matrix, list all products and score them against each criterion. Assign weights to each criterion based on their importance and calculate the weighted scores for each product. Sum these scores to determine the overall ranking, helping you make data-driven decisions. Additionally, ensure that all product details are visualized in the matrix to provide a comprehensive overview, facilitating better analysis and decision-making.
